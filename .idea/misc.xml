@@ -4,6 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/laercio.nsilva/Documents/ProjetoAndroid/FragmentApp/app/src/main/res/layout/activity_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/laercio.nsilva/Documents/ProjetoAndroid/FragmentApp/app/src/main/res/layout/fragment_explore.xml" value="0.25885416666666666" />
+        <entry key="..\:/Users/laercio.nsilva/Documents/ProjetoAndroid/FragmentApp/app/src/main/res/layout/fragment_gato.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/laercio.nsilva/Documents/ProjetoAndroid/FragmentApp/app/src/main/res/layout/fragment_home.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/laercio.nsilva/Documents/ProjetoAndroid/FragmentApp/app/src/main/res/layout/fragment_library.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/laercio.nsilva/Documents/ProjetoAndroid/FragmentApp/app/src/main/res/layout/fragment_subscriptions.xml" value="0.25885416666666666" />
         <entry key="..\:/Users/laercio.nsilva/Documents/ProjetoAndroid/FragmentApp/app/src/main/res/menu/menu_bottom_view.xml" value="0.271875" />
       </map>
     </option>
